@@ -1,8 +1,8 @@
-package com.example
+package ca.hyperreal
 
 import akka.actor.Actor
 import in.azeemarshad.common.sessionutils.SessionDirectives
-import sessionutils.Session
+import in.azeemarshad.common.sessionutils.Session
 import spray.routing._
 import spray.http._
 import MediaTypes._

@@ -4,7 +4,7 @@ import shapeless._
 import spray.routing._
 import scala.Some
 import shapeless.::
-import com.example.sessionutils.{Session, CookieBaker}
+
 
 /**
  * Created with IntelliJ IDEA.

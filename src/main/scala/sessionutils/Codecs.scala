@@ -1,4 +1,4 @@
-package com.example.sessionutils
+package in.azeemarshad.common.sessionutils
 
 import org.apache.commons.codec.binary.Hex
 
