@@ -2,18 +2,16 @@ name          := "spray-cookiebaker"
 
 version       := "0.1"
 
-organization  := "ca.hyperreal"
+organization  := "xyz.hyperreal"
 
-scalaVersion  := "2.11.6"
+scalaVersion  := "2.11.7"
 
 scalacOptions := Seq("-unchecked", "-deprecation", "-encoding", "utf8")
-
-organization := "ca.hyperreal"
 
 resolvers += "Hyperreal Repository" at "https://dl.bintray.com/edadma/maven"
 
 libraryDependencies ++= {
-	val akkaV = "2.3.9"
+	val akkaV = "2.3.12"
 	val sprayV = "1.3.3"
 	Seq(
 	"io.spray"            %%  "spray-can"     % sprayV,

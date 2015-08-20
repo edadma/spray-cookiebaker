@@ -7,6 +7,6 @@ Created by [Azeem Arshad](https://github.com/azeem). I just brought everything u
 
 	resolvers += "Hyperreal Repository" at "https://dl.bintray.com/edadma/maven"
 
-	libraryDependencies += "ca.hyperreal" %% "spray-cookiebaker" % "0.1"
+	libraryDependencies += "xyz.hyperreal" %% "spray-cookiebaker" % "0.1"
 
 MIT License
